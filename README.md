@@ -1,4 +1,4 @@
-# pyjama-llama.github.io
+# pyjama-llama.github.io data sci
 
 ### 01 - Edukation
 text
