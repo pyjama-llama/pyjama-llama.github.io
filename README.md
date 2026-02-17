@@ -6,7 +6,7 @@
 - Google UK Cloud: Senior Financial Analyst <!--put info here -->
 - Facebook: Global Insights Analytics & Reporting Manager <!--put info here -->
 - Allied Irish Bank (AIB): Analytics Commercialization Manager. Using SQL to pull customer spend data, create analytical products for bank's enterprise customers, business development.
-- Vodafone Global Enterprise (Business): Global Proposition Development Manager. Using <!--put info here -->
+- Vodafone Global Enterprise (Business): Global Proposition Development Manager. Business Dev, create Proof of Concept product propositions for largest enterprise customers, using anonymized location data. <!--put info here -->
   
 
 ### Projects
