@@ -9,8 +9,9 @@
 - Vodafone Global Enterprise (Business): Global Proposition Development Manager. Business Dev, create Proof of Concept product propositions for largest enterprise customers, using anonymized location data. <!--put info here -->
   
 
-### Projects
+### Projects / Websites
 - World's most advanced political polling data visualization website: <a href="https://kjorklefinn.is/" target="_blank">Kjörklefinn / The Voting Booth </a>.
+- R / Quarto *sandbox* to explore advanced data visualizations, learning R and Quarto capabilites. Messy like sandboxes should be. 
 
 #### To Do, add...
 - Visual bookmarking chrome extension. Useful browser bookmark tool to easily visualize tagged bookmarks in a timeline, grid. Features include tagging, read / unread, favourites, search bar. Tools: Antigravity + LLM agents.
