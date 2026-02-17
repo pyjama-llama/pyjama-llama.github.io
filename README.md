@@ -12,4 +12,6 @@
 
 ### Projects
 - to do, maybe make a deck <!--put info here -->
-- https://kjorklefinn.is/
+- World's most advanced political polling data visualization website: <a href="https://kjorklefinn.is/" target="_blank">Kjörklefinn / The Voting Booth </a>
+
+
