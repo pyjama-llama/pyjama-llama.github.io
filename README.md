@@ -10,5 +10,6 @@
 - Vodafone Global Enterprise (Business): Global Proposition Development Manager <!--put info here -->
   
 
-### Projectts
+### Projects
 - to do, maybe make a deck <!--put info here -->
+- https://kjorklefinn.is/
