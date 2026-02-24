@@ -11,7 +11,7 @@
 
 ### Projects / Websites
 - World's most advanced political polling data visualization website: <a href="https://kjorklefinn.is/" target="_blank">Kjörklefinn / The Voting Booth </a>.
-- An interactive forensic financial network graph mapping $557,952,981 in documented wire transfers across 141 entities and 382 transactions (2009–2019) connected to the Jeffrey Epstein financial network.
+- <a href="https://pyjama-llama.github.io/epstein-network-financial-forensic-dashboard/index.html" target="_blank"> Forensic Analytics of Epstein's financial network. </a>.An interactive forensic financial network graph mapping $557,952,981 in documented wire transfers across 141 entities and 382 transactions (2009–2019) connected to the Jeffrey Epstein financial network.
   --Analytics page, with small multiple breakdowns of entity cashflows, profile of entity..more to come.
   *This work would not have been possible without the amazing analytical work done by (get his github and name here.)it's a masterpieace of data science, engineering, domain knowledge, it belongs up on a nerd museum wall. If it was a whiskey, you'd have to know the owner to get a wiff. He has most graceiously shared his analytical work and data.*
   --There's so much to ingest, i´m taking my time to enjoy it!
